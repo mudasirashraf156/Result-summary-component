@@ -5,7 +5,7 @@ Frontend Mentor challenge: creating the planned component (responsive).
 technologies used:
 
 - HTML
-- CSS (flex-box)
+- CSS 
 - JavaScript
 
 
